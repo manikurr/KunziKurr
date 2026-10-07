@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-korirm3%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:korirm3@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-10B981?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Nairobi)
-[![Portfolio](https://img.shields.io/badge/GitHub-ekipyegon-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/ekipyegon)
+[![Portfolio](https://img.shields.io/badge/GitHub-KunziKurr-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/KunziKurr)
 
 </div>
 
@@ -242,13 +242,13 @@ Omnichannel digital banking engine delivering essential financial services to mi
 ## GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ekipyegon&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ekipyegon&theme=react&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Streak Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KunziKurr&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KunziKurr&theme=react&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Streak Stats" />
 </div>
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekipyegon&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ekipyegon&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunziKurr&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=KunziKurr&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -319,7 +319,7 @@ I'm always open to discussing digital banking architecture, frontend leadership,
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ekipyegon&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=KunziKurr&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile Views" />
 
 </div>
 
